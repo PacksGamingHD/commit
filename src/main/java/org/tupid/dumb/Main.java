@@ -1,1 +1,1 @@
-;system.out.println("sponge ftw");
+system.out.println("sponge ftw");
